@@ -1,4 +1,4 @@
-name := "sbt-starter"
+name := "sbt-starter-sp"
 
 version := "0.1"
 
