@@ -2,11 +2,11 @@
 
 ### Versions:
 
-Scala: 2.11.7
+Scala: 2.11.8
 
 sbt: 0.13.8
 
-sbt Eclipse plugin: 4.0.0
+sbt Eclipse plugin: 5.0.0
 https://github.com/typesafehub/sbteclipse
 
 ScalaTest: 2.2.4
